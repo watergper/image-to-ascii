@@ -8,5 +8,6 @@ public class App {
         String file = input.nextLine();
         Converter image = new Converter(file);
         image.readInFile();
+        input.close();
     }
 }
