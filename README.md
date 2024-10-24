@@ -1,4 +1,4 @@
-## Image to ASCII Converter | محول الصور إلى ASCII
+## Image to ASCII Converter |ASCII محول الصور إلى 
 
 السلام عليكم ورحمة الله وبركاته
 
