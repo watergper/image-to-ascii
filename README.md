@@ -3,6 +3,7 @@
 السلام عليكم ورحمة الله وبركاته
 
 Welcome to the Image to ASCII Converter program. This tool allows you to convert images into ASCII art, providing a text-based visualization of your image.
+
 أهلًا وسهلًا في برنامج محول الصور إلى ASCII. هالأداة بتحول الصور إلى فن ASCII، بحيث تطلع الصورة بشكل نصّي يشبه الصور الأصلية.
 
 ## Table of Contents | الفهرس
